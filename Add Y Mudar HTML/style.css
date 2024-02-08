@@ -1,0 +1,5 @@
+.box{
+    border: 3px solid;
+    inline-size: 100%;
+    block-size: 125px;
+}
